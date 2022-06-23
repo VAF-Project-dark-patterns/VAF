@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Please find the source code of the Dark Patterns Cookie Helper (Chrome extension + backend) in [this repository](https://github.com/koenberkhout/Dark-Patterns-Cookie-Helper).
+Please find the source code of the tools developed for the dark patterns project (Chrome extension + backend, domaintool) in [this repository](https://github.com/koenberkhout/dark-patterns-project).
